@@ -3,5 +3,4 @@ pandas
 numpy
 torch
 transformers
-faiss-cpu
 sentence-transformers
